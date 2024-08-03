@@ -35,6 +35,9 @@ Partner Key: X-AUTH-SECRET-KEY: ROADTOSDET
 ### API Documentation
 https://documenter.getpostman.com/view/37278077/2sA3rwMZMC
 
+### Bug and Improvement Report link
+https://docs.google.com/spreadsheets/d/17v416-62qnJdBeDm81nUxUNrlsx68QHpq3jgy5pmzw0/edit?usp=sharing
+
 ### Newman Report
 ![image](https://github.com/user-attachments/assets/211cf32f-e63c-4fda-a339-80a0532ff3d7)
 
